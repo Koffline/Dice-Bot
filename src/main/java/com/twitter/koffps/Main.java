@@ -1,6 +1,7 @@
 package com.twitter.koffps;
 
 import com.twitter.koffps.event.Dicecommand;
+import com.twitter.koffps.event.Splitcommand;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.OnlineStatus;
